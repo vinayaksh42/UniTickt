@@ -2,12 +2,12 @@
   <div class="container">
     <div>
       <Logo />
-      <h2 class="subtitle">
-        MEVN starter template based on Nuxt-js
-      </h2>
+      <h1 class="title">
+        UniTickt
+      </h1>
       <div class="links">
         <a
-          href="https://mevn.madlabs.xyz"
+          href="https://nuxtjs.org/"
           target="_blank"
           rel="noopener noreferrer"
           class="button--green"
@@ -15,7 +15,7 @@
           Documentation
         </a>
         <a
-          href="https://github.com/madlabsinc/mevn-cli"
+          href="https://github.com/nuxt/nuxt.js"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
@@ -42,8 +42,16 @@ export default {}
 }
 
 .title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family:
+    'Quicksand',
+    'Source Sans Pro',
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    'Helvetica Neue',
+    Arial,
+    sans-serif;
   display: block;
   font-weight: 300;
   font-size: 100px;

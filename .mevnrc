@@ -5,7 +5,7 @@
   "renderingMode": "spa",
   "deployTarget": "static",
   "isConfigured": {
-    "client": false,
+    "client": true,
     "server": false
   }
 }
