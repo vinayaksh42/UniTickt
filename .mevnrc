@@ -1,0 +1,11 @@
+{
+  "name": "unitickt",
+  "template": "Nuxt.js",
+  "modules": [],
+  "renderingMode": "spa",
+  "deployTarget": "static",
+  "isConfigured": {
+    "client": false,
+    "server": false
+  }
+}
