@@ -1,2 +1,2 @@
 # UniTickt
-A real-time queue application
+A real-time queue application.
